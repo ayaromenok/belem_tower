@@ -18,8 +18,8 @@ Implemented in Blender
 
 ### Current status
 
-Update: 20260609
-![Blender 5.1 version](img/belem_tower_blender_wip_20260609.jpg)
+Update: 20260610
+![Blender 5.1 version](img/belem_tower_blender_wip_20260610.jpg)
 
 ## version 1 (not finisher)
 
