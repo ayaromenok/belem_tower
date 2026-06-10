@@ -21,6 +21,10 @@ Implemented in Blender
 Update: 20260610
 ![Blender 5.1 version](img/belem_tower_blender_wip_20260610.jpg)
 
+M 1:1000 draft print
+![M 1:1000 printed version](stl/belem_tower_draft_M1000.jpg)
+
+
 ## version 1 (not finisher)
 
 Removed. Store in git history. OpenSCAD
